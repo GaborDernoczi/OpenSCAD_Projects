@@ -1,0 +1,8 @@
+{
+    "openscad.launchPath": "c:\\Program Files\\OpenSCAD (Nightly)\\openscad.exe",
+    "openscad.executablePath": "c:\\Program Files\\Openscad\\openscad.exe",
+    "openscad.launchArgs": [
+        "c:\\Program Files\\OpenSCAD (Nightly)\\openscad.exe"
+    ],
+    "scadRenderer.executablePath": "c:\\Program Files\\OpenSCAD (Nightly)\\openscad.exe"
+}
